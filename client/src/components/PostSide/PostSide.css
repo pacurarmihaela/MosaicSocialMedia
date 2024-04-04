@@ -1,0 +1,13 @@
+.PostSide{
+    background-color:snow;
+    margin-left: 2rem;
+    padding: 3rem 0;
+    padding-left: 3rem;
+    overflow-x: hidden;
+}
+
+
+
+.PostShareContainer{
+    margin: 5rem;
+}

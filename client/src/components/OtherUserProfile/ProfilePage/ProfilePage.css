@@ -1,0 +1,20 @@
+.followProfile{
+    width: 20vw;
+
+}
+
+.FollowPage{
+    padding-left: 7rem;
+    width: 100vw;
+    overflow-x: hidden;
+
+}
+
+.otherProfileContainer{
+    width: 20vw;
+}
+.otherProfilePicture{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

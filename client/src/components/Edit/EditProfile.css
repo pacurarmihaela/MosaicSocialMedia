@@ -1,0 +1,23 @@
+/* .EditProfileForm{
+    background-color: rgb(49, 5, 5);
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    height: 100vh;
+    width: 100vw;
+}
+input{
+    width: 20rem;
+    margin: 50%;
+} */
+
+.editForm{
+    background-color: snow;
+    height: 100vh;
+}
+
+.editForm button{
+    width: 10vw;
+}

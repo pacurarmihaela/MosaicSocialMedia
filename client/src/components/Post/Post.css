@@ -1,0 +1,42 @@
+
+ .postFuncComponent{
+    width: 30vw;
+    height: 40vh;
+    position: relative;
+    overflow: hidden;
+    margin:1px;
+}
+
+ .postImage{
+    object-fit: cover;
+    width: 30vw;
+    height: 40vh;
+ }
+
+ .icon{
+   height: 1.5rem;
+   cursor: pointer;
+ }
+
+ .selectBoard{
+    background-color: snow;
+    color: black;
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+ }
+ 
+.detail{
+    /* background-color: rgba(247, 240, 178, 0.648); */
+    background-color: rgba(47, 1, 1, 0.633);
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    padding: 2rem;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+}
+.detail:hover{
+    opacity: 1;
+}

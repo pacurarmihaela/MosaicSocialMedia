@@ -1,0 +1,100 @@
+.SingleDisplay{
+    /* background-color:rgba(247, 240, 178, 0.648); */
+    background-color:snow;
+    /* background-color: #44040B; */
+    padding: 3rem;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.SingleDisplay img{
+    width: 50vw;
+    height: 500px;
+    object-fit: contain;
+    border-radius: 2rem;
+}
+
+.CommentSection{
+    /* background-color: #44040B; */
+    border: solid 1px #44040B;
+    min-width: 30vw;
+    overflow: hidden;
+    border-radius: 2rem;
+    height: 83vh;
+}
+
+.infoContainer{
+    width: 100vw;
+    display: flex;
+    margin-left: 30%;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5rem;
+}
+.info button{
+    width: 10vw;
+}
+.profileContainer{
+    padding: 1rem;
+}
+
+.profilePostContainer{
+    width:100%;
+    display: flex;
+    align-items: center;
+    padding: 1rem 0.5rem;
+    border-radius: 2rem;
+}
+
+
+.profilePostContainer img{
+    object-fit: cover;
+    height: auto;
+    border-radius: 50%;
+    width: 5vw;
+}
+
+
+
+
+
+.profilePostContainer p{
+    margin-left: 1rem;
+    font-size: 1.1rem;
+}
+
+.CommentMainContainer{
+    margin-top: 2rem;
+}
+
+.outlineBtn{
+    background-color:snow;
+    color: darkred;
+    border: solid 1px darkred;
+    transition: all 0.3s ease-in-out;
+}
+
+.outlineBtn:hover{
+    background-color: rgba(240, 230, 140, 0.577);
+    color:darkred;
+}
+
+.deleteButton{
+    background-color: #44040B;
+    border: 1px solid #44040B;
+}
+.deleteButton:hover{
+    background-color: snow;
+    color: #44040B;
+}
+.commentOverflow{
+ /* background-color: yellow; */
+ max-width: 30vw;
+ text-wrap: wrap;
+ padding: 1rem 0;
+}

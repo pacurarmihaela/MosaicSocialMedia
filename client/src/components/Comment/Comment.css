@@ -1,0 +1,36 @@
+
+
+.CommentSingleContainer{
+    height: 100%;
+}
+
+.CommentSingleContainer ul{
+    height: 40vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.CommentList{
+  display: flex;
+  justify-content: space-between;
+}
+
+.commentUserDisplay{
+    display: flex;
+    align-items: center;
+
+}
+.user{
+    color: rgb(87, 86, 86);
+    margin-left: 1px;
+}
+
+.commentInput{
+    width: 20rem;
+    border: none;
+    padding: 1rem 0.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid #44040B;
+}
+

@@ -1,0 +1,82 @@
+.ProfileCard{
+   
+    padding: 1.5rem 3rem;
+}
+
+.DisplayFlexCenterColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ProfileContainer{
+    border-radius: 2rem;
+    height: 40vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profilePicture{
+    object-fit: cover;
+    border-radius: 3rem;
+    height: 100%;
+    width: 100%;
+}
+
+.ProfileInfo{
+    margin-top:5px;
+    border-radius: 1rem;
+    border: 1px solid #940D1D;
+    padding: 1rem;
+}
+
+.ProfileName{
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    padding:  1rem;
+    border: 1px solid #940D1D;
+   
+}
+
+.username{
+    color: grey;
+    font-size: 1rem;
+}
+.followStatus{
+    border-radius: 0.2rem;
+    padding: 0.7rem 2rem ;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #940D1D;
+    background-color: #940D1D;
+
+}
+
+.spanCount{
+    margin: 0 1rem;
+}
+
+
+
+
+.followStatus a{
+    color: snow;
+   text-decoration: none;
+   border: 1px solid #940D1D;
+}
+
+
+.numberFollow{
+    margin-right: 3px;
+}
+.posts{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #940D1D;
+
+}

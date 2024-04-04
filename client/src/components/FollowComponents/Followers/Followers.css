@@ -1,0 +1,46 @@
+.followCard{
+    background-color: snow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    min-height: 100vh;
+    
+}
+
+.followCard ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 3rem;
+}
+
+.otherUsersProfile{
+    background-color: #44040B;
+    width: 30vw;
+    height: 80vh;
+    padding: 3rem;
+    border-radius: 2rem;
+    list-style: none;
+    margin: 2rem;
+    overflow: scroll;
+    border: 1px solid darkred;
+
+}
+
+.otherUserInfo{
+    background-color: snow;
+    border-radius: 0.75rem;
+    padding: 1rem 5rem;
+    margin-top: 1rem;
+    border: 1px solid darkred;
+}
+.otherUserInfo a{
+    text-decoration: none;
+    color: darkred;
+   padding: 1rem;
+}
+
+.ProfileContainer{
+    text-align: center;
+}
