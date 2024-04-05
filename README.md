@@ -36,6 +36,16 @@ Hello, here i will attach some screenshots of the project, for more in depth inf
 
 ![Post](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/bbdb7593-2337-4a56-879e-66455d2f0df8)
 
+
+//Other Accounts:
+
+![Followings](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/a0a7296c-ad92-4c20-a0e0-72e9d17a8755)
+
+//Other Accounts Profile: 
+![OtherAccounts](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/69488d6e-8f79-46c7-ab70-bd6e2f62905a)
+//Another example
+
+
 ///Send Messages/ Chat Page:
 
 ![Chat](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/dfa9f276-ef89-4b49-ab95-8335f3dfd1a9)
