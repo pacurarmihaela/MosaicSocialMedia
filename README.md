@@ -43,7 +43,9 @@ Hello, here i will attach some screenshots of the project, for more in depth inf
 
 //Other Accounts Profile: 
 ![OtherAccounts](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/69488d6e-8f79-46c7-ab70-bd6e2f62905a)
+
 //Another example
+![OtherAccounts](https://github.com/pacurarmihaela/MosaicSocialMedia/assets/71931876/555ef7db-f55f-4b35-b518-a5482c79e352)
 
 
 ///Send Messages/ Chat Page:
